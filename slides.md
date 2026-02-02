@@ -21,5 +21,5 @@ src: ./00-index.md
 ---
 
 ---
-src: ./lessons/01-example-lesson/01-example-lesson.md
+src: ./lessons/00-typescript-baseline/00-typescript-baseline.md
 ---
