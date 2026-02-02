@@ -17,7 +17,7 @@
     "vue": "3.5.27"
   },
   "devDependencies": {
-    "prettier": "3.7.4",
+    "prettier": "3.8.1",
     "prettier-plugin-slidev": "1.0.5"
   }
 }
