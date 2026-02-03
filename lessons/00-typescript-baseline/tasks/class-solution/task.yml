@@ -2,9 +2,6 @@
 title: 'Klassen in TypeScript - Lösung'
 position: 6
 category: 'TypeScript Basics'
-preparation: false
+preparation: true
 estimated_time_in_minutes: 5
-always_unlocked: false
-
-# Git Integration
-git_tag_completed: solution-05-class
+always_unlocked: true

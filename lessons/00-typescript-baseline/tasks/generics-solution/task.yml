@@ -2,9 +2,6 @@
 title: 'Generics - Lösung'
 position: 10
 category: 'TypeScript Basics'
-preparation: false
+preparation: true
 estimated_time_in_minutes: 5
-always_unlocked: false
-
-# Git Integration
-git_tag_completed: solution-09-generics
+always_unlocked: true
