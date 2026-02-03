@@ -1,0 +1,10 @@
+# Task Configuration
+title: 'ES Modules'
+position: 7
+category: 'TypeScript Basics'
+preparation: false
+estimated_time_in_minutes: 10
+always_unlocked: false
+
+# Git Integration
+git_tag_completed: solution-07-es-modules

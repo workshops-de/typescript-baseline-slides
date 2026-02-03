@@ -1,0 +1,7 @@
+/*
+ * On large screen sizes the typing popover gets cut off and the text is not visible any more.
+ * This css rule ensures that the popover is always visible.
+ */
+.v-popper--theme-twoslash.v-popper__popper {
+  content-visibility: visible !important;
+}

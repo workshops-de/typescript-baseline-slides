@@ -21,3 +21,23 @@ src: ./slides/syntax-type-annotation/slides.md
 ---
 src: ./slides/type-interface-wiederverwendung/slides.md
 ---
+
+---
+src: ./slides/discriminated-unions-type-guards/slides.md
+---
+
+---
+src: ./slides/class/slides.md
+---
+
+---
+src: ./slides/es-modules/slides.md
+---
+
+---
+src: ./slides/generics/slides.md
+---
+
+---
+src: ./slides/spezielle-typen/slides.md
+---

@@ -1,4 +1,10 @@
-import { rendererRich, transformerTwoslash } from '@shikijs/twoslash';
+import {
+  transformerNotationDiff,
+  transformerNotationErrorLevel,
+  transformerNotationFocus,
+  transformerNotationHighlight,
+  transformerNotationWordHighlight,
+} from '@shikijs/transformers';
 import type { ShikiSetupReturn } from '@slidev/types';
 import { defineShikiSetup } from '@slidev/types';
 
@@ -9,10 +15,11 @@ export default defineShikiSetup((): ShikiSetupReturn => {
       light: 'light-plus',
     },
     transformers: [
-      transformerTwoslash({
-        explicitTrigger: true,
-        renderer: rendererRich(),
-      }),
+      transformerNotationHighlight(),
+      transformerNotationWordHighlight(),
+      transformerNotationDiff(),
+      transformerNotationFocus(),
+      transformerNotationErrorLevel(),
     ],
   };
 });
