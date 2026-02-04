@@ -16,9 +16,9 @@ layout: why
 
 # Warum typisieren?
 
-- Typfehler werden frueh gefunden statt zur Laufzeit
-- Annahmen ueber Daten sind klar und explizit
-- IDEs liefern bessere Autovervollstaendigung und Refactoring
+- Typfehler werden früh gefunden statt zur Laufzeit
+- Annahmen über Daten sind klar und explizit
+- IDEs liefern bessere Autovervollständigung und Refactoring
 - Weniger Bugs und stabilere Releases als pures JS
 
 ---

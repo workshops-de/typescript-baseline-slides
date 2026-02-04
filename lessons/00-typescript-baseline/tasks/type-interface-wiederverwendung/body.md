@@ -1,4 +1,4 @@
-Erstelle wiederverwendbare Typen fuer das Bestellbeispiel.
+Erstelle wiederverwendbare Typen für das Bestellbeispiel.
 Definiere ein `interface` Customer, ein `interface` Order und einen `type` SummaryFn.
 Typisiere danach alle Variablen und die Funktion passend.
 

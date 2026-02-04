@@ -1,4 +1,4 @@
-Fuege Typannotationen fuer Primitives, ein Objekt und eine Methode hinzu.
+Füge Typannotationen für Primitives, ein Objekt und eine Methode hinzu.
 Verwende einfache Inline-Typen.
 
 ```ts

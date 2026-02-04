@@ -18,7 +18,7 @@ layout: why
 # Warum wiederverwenden?
 
 - Gemeinsame Strukturen bleiben konsistent
-- Aenderung an einem Ort statt in vielen Dateien
+- Änderung an einem Ort statt in vielen Dateien
 - Weniger Copy-Paste und weniger Fehler
 
 ---
@@ -28,9 +28,9 @@ layout: default
 # Inline-Typen vermeiden
 
 - Inline-Typen werden lang und wiederholen sich
-- Kleine Aenderungen erzeugen Drift zwischen Modellen
-- Interfaces sind ideal fuer Objektformen
-- Types sind flexibel fuer Aliase und Kombinationen
+- Kleine Änderungen erzeugen Drift zwischen Modellen
+- Interfaces sind ideal für Objektformen
+- Types sind flexibel für Aliase und Kombinationen
 
 ---
 layout: little-what
@@ -38,7 +38,7 @@ layout: little-what
 
 # interface
 
-Ein `interface` beschreibt die Form von Objekten und laesst sich mit `extends` erweitern.
+Ein `interface` beschreibt die Form von Objekten und lässt sich mit `extends` erweitern.
 
 ---
 layout: why
@@ -46,7 +46,7 @@ layout: why
 
 # interface
 
-- Ideal fuer Domain-Modelle mit Objektstruktur
+- Ideal für Domain-Modelle mit Objektstruktur
 - Erweiterungen bleiben lesbar und konsistent
 
 ---
@@ -77,7 +77,7 @@ layout: little-what
 
 # type
 
-Ein `type` ist ein Alias fuer einen Typ und kann Typen kombinieren, z. B. mit `&`.
+Ein `type` ist ein Alias für einen Typ und kann Typen kombinieren, z. B. mit `&`.
 
 ---
 layout: why
@@ -85,7 +85,7 @@ layout: why
 
 # type
 
-- Auch fuer Nicht-Objekte nutzbar
+- Auch für Nicht-Objekte nutzbar
 - Flexible Kombinationen und Varianten
 
 ---

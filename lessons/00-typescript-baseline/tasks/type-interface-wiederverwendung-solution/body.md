@@ -1,4 +1,4 @@
-Details zur Loesung werden im Video genannt.
+Details zur Lösung werden im Video genannt.
 
 ```ts
 interface Customer {
