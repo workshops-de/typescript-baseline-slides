@@ -112,3 +112,9 @@ const mix = ['eins', 1]; // inferiert: (string|number)[]
 ```
 
 </WindowMockup>
+
+---
+layout: task
+---
+
+# Syntax - Type Annotation

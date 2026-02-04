@@ -99,3 +99,9 @@ type OrderId = string;
 type Amount = number;
 ```
 </WindowMockup>
+
+---
+layout: task
+---
+
+# Types & Interfaces - Wiederverwendung
