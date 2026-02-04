@@ -2,7 +2,7 @@
 layout: section
 ---
 
-# Syntax Type Annotation
+# Syntax: Type Annotation
 
 ---
 layout: little-what
@@ -22,14 +22,25 @@ layout: why
 - Weniger Bugs und stabilere Releases als pures JS
 
 ---
-layout: default
+layout: two-cols-header
+layoutClass: gap-x-lg
 ---
 
 # Primitives
 
-<WindowMockup codeblock>
-```ts {*|1|2|3|*}
-const shopName: string = 'TS Mart';
+::left::
+<Callout type="info">
+
+Typisierungen erweitern den gültigen ECMA-Script-Standard.
+Der `:` zeigt an, dass eine Typinformation folgt.
+
+</Callout>
+
+::right::
+
+<WindowMockup codeblock title="primitive-types.ts">
+```ts {*|1|2|3|*} twoslash
+const shopName: string = 'TS Mart'; // [!code word:\:]
 const isOpen: boolean = true;
 const taxRate: number = 0.19;
 ```

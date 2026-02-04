@@ -15,6 +15,15 @@ theme: '@workshops.de/slidev-theme'
 addons:
   - window-mockup
   - slidev-addon-tldraw
+
+layout: cover
+---
+
+# TypeScript Baseline
+
+## Dein Vorbereitungskurs
+
+---
 src: ./slides/syntax-type-annotation/slides.md
 ---
 
