@@ -15,8 +15,8 @@ Derzeit bieten wir diese Videos nur mit deutscher Synchronisation an.
 Grundsätzlich können Sie wählen, ob Sie sich die Videos zunächst nur ansehen oder sofort aktiv mitarbeiten möchten.
 Zusätzlich zum Inhalt werden auch die Lösungen zu den Übungen erklärt.
 
-Den [Code](https://github.com/workshops-de/javascript-baseline#javascript-baseline) für diese Lektion finden Sie [hier auf GitHub](https://github.com/workshops-de/javascript-baseline#javascript-baseline).
-Die [README](https://github.com/workshops-de/javascript-baseline#javascript-baseline) enthält alle Informationen, die Sie benötigen, um lokal auf Ihrem Entwicklungssystem zu arbeiten.
+Den [Code](https://github.com/workshops-de/typescript-baseline) für diese Lektion finden Sie [hier auf GitHub](https://github.com/workshops-de/typescript-baseline).
+Die [README](https://github.com/workshops-de/typescript-baseline) enthält alle Informationen, die Sie benötigen, um lokal auf Ihrem Entwicklungssystem zu arbeiten.
 
 ### Was passiert, wenn ich diesen Kurs nicht vor Beginn des Workshops abschließen kann?
 
